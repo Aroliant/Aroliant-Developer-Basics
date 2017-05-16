@@ -44,3 +44,27 @@ Read more at [Mastering Markdown by GitHub](https://guides.github.com/features/m
 ### Git
 Git is a version control system. It allows a team of people to work together, all using the same files. And it helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
 
+## Full Stack Developer
+
+A full stack developer is capable of performing tasks at any level of the technical stack in which they reside. It means:
+
+* Working with systems infrastructure (knowing what hardware to ask for , what OS to install, how to prepare the system and dependencies for all software)
+* Understanding, creating, manipulating, and querying databases
+* API / back-end code in one or more languages, e.g. Ruby, Java, Python, etc.
+* Front-end code in one or more languages, e.g. HTML, JavaScript, Java, etc.
+* Project management / client work, e.g. gathering requirements, creating technical specifications and architecture documents, creating good documentation, managing a project timeline (e.g., someone who knows Agile/SCRUM/Kanban/Trello)
+
+## Web Developers
+
+## Android Developers
+
+## Designers
+
+## Test Engineers
+
+## System & Database Administrators
+
+## Machine Learning Architects
+
+Read more at [Machine Learning for Software Engineers](https://aroliant.github.io/machine-learning-for-software-engineers/)
+
