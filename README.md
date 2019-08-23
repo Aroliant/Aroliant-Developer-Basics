@@ -4,7 +4,7 @@ Basic things that you have to know as a Developer of Aroliant
 ## Essentials
 * HTML5
 * CSS3
-* Git
+* Git ( with GitFlow Pattern )
 * Text Editor
 * Markdown Syntax
 
@@ -55,16 +55,37 @@ A full stack developer is capable of performing tasks at any level of the techni
 * Project management / client work, e.g. gathering requirements, creating technical specifications and architecture documents, creating good documentation, managing a project timeline (e.g., someone who knows Agile/SCRUM/Kanban/Trello)
 
 ## Web Developers
+* Angular
+* Nuxt.JS
 
-## Android Developers
+## React Native Developers
+
+* React
+* Hermes
+* Native Modules
+* RNN ( by Wix )
+
 
 ## Designers
 
+* Photoshop
+* Illustrator
+
 ## Test Engineers
 
-## System & Database Administrators
+* Cypress
+* Unit Testing in Angular with Jasmine
 
 ## Machine Learning Architects
 
 Read more at [Machine Learning for Software Engineers](https://aroliant.github.io/machine-learning-for-software-engineers/)
 
+## Contributing Open Source
+
+1. Clone the repo
+2. Open an issue at our Gitlab Issues. Describe the bug that you've found, or the feature. Note down the issue number (e.g. 12)
+3. Create your feature branch ( `git checkout -b 12-my-new-feature` )
+4. Commit your changes ( `git commit -am 'Added some feature'` ) It is preferred that you 'commit early and often' instead of bunching all changes into a single commit.
+5. Push your branch to your branch ( `git push origin 12-my-new-feature` )
+6. Create a merge request pointing to `dev`
+7. The team will then review, discuss and hopefully merge your changes.
